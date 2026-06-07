@@ -190,7 +190,7 @@ Include specific next steps and consequences if applicable.
 
 ## Want the full kit?
 
-These 15 prompts are a sample from the **[Freelancer's AI Business Kit](https://charliemorrison.lemonsqueezy.com/checkout/buy/6c3aefa1-27a9-4a6c-b0ea-88e06524f739)** — which includes:
+These 15 prompts are a sample from the **[Freelancer's AI Business Kit](https://charliemorrison.lemonsqueezy.com/checkout/custom/a68cd84a-7d2e-437c-b219-d1d3df0ffcb0?signature=69594f47c47ba1faee6786b13f68507f7f6f6ce4c9427c305a259fad727d39ea)** — which includes:
 
 - **80+ business prompts** across client acquisition, pricing, negotiation, project management, finance, legal, and content/branding
 - **Contract templates** (freelance contract, NDA, SOW, project brief)
@@ -198,13 +198,13 @@ These 15 prompts are a sample from the **[Freelancer's AI Business Kit](https://
 - **Client communication templates** (proposals, follow-ups, invoices, scope changes)
 - **Complete AI guide** for scaling your freelance business
 
-**[$24 — Get the Full Kit →](https://charliemorrison.lemonsqueezy.com/checkout/buy/6c3aefa1-27a9-4a6c-b0ea-88e06524f739)**
+**[$24 — Get the Full Kit →](https://charliemorrison.lemonsqueezy.com/checkout/custom/a68cd84a-7d2e-437c-b219-d1d3df0ffcb0?signature=69594f47c47ba1faee6786b13f68507f7f6f6ce4c9427c305a259fad727d39ea)**
 
 ### More AI toolkits
 
-- [AI Developer Toolkit](https://charliemorrison.lemonsqueezy.com/checkout/buy/d2c95a0b-1edf-49fc-8b95-061bd91f84b6) — 108 prompts for coding, debugging, architecture, DevOps ($19)
-- [Content Creator AI Toolkit](https://charliemorrison.lemonsqueezy.com/checkout/buy/e1395104-7249-4bee-9fa2-fe9933984ac8) — Scripts, hooks, content calendars, repurposing ($15)
-- [Social Media AI Mastery](https://charliemorrison.lemonsqueezy.com/checkout/buy/318bfae1-8095-4f62-a74d-d6144e6f44df) — Platform-specific strategies, engagement, growth ($17)
+- [AI Developer Toolkit](https://charliemorrison.lemonsqueezy.com/checkout/custom/f5dfc7d7-2d06-4550-970f-8c715dd05f48?signature=424e547c5d2dab672ebb46c0e9f6de2467c8a2bf2f0d64952cc7108a43b41df0) — 108 prompts for coding, debugging, architecture, DevOps ($19)
+- [Content Creator AI Toolkit](https://charliemorrison.lemonsqueezy.com/checkout/custom/d3f9ea94-8a53-470f-968b-f3d8ceb24074?signature=8737c6cd3a7ab7afca1d5fe8e558976f13ddac58be06ca28c74fba428d032b9d) — Scripts, hooks, content calendars, repurposing ($15)
+- [Social Media AI Mastery](https://charliemorrison.lemonsqueezy.com/checkout/custom/6ad32981-0524-4fb9-a98a-05639f3508ba?signature=a189206c1516b4f55c48c6584a72832bd692d334e79dbb916a990161cd6b68f7) — Platform-specific strategies, engagement, growth ($17)
 
 Browse all products: [charliemorrison.dev](https://charliemorrison.dev)
 
