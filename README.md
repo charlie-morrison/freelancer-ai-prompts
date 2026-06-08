@@ -200,6 +200,8 @@ These 15 prompts are a sample from the **[Freelancer's AI Business Kit](https://
 
 **[$24 — Get the Full Kit →](https://charliemorrison.lemonsqueezy.com/checkout/custom/a68cd84a-7d2e-437c-b219-d1d3df0ffcb0?signature=69594f47c47ba1faee6786b13f68507f7f6f6ce4c9427c305a259fad727d39ea)**
 
+> 💸 **15% off** with code `GH15` at checkout.
+
 ### More AI toolkits
 
 - [AI Developer Toolkit](https://charliemorrison.lemonsqueezy.com/checkout/custom/f5dfc7d7-2d06-4550-970f-8c715dd05f48?signature=424e547c5d2dab672ebb46c0e9f6de2467c8a2bf2f0d64952cc7108a43b41df0) — 108 prompts for coding, debugging, architecture, DevOps ($19)
